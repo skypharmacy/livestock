@@ -1,0 +1,100 @@
+.title {
+  color: red;
+}
+
+
+header{
+  height:65px;
+  width:100%;
+  position:fixed;
+  background-color:white;
+  width:1400px;
+  z-index:10;
+  top:0;
+}
+
+.logo{
+  height:65px;
+  width:124px;
+  float:left;
+
+}
+
+.header-left{
+  float:left;
+}
+
+.header-left a{
+  line-height: 65px;
+  padding-left:30px;
+  padding-right:30px;
+  letter-spacing: 10px;
+}
+
+.top-wrapper{
+  padding-top:1px;
+  Padding-bottom:50px;
+  height:350px;
+  text-align:center;
+  background-image:url(https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/12/1200/675/horse.jpg?ve=1&tl=1);
+  background-size:cover;
+}
+
+.top-wrapper h1{
+  padding-top:50px;
+  font-size:60px;
+  color:red;
+}
+
+.top-wrapper h2{
+  font-size:45px;
+  letter-spacing:5px;
+  color:blue;
+}
+
+
+
+
+.category-wrapper{
+  padding-top:30px;
+  height:4000x;
+  padding-bottom:80px;
+  background-color:#f7f7f7;
+  text-align:center;
+  }
+
+
+
+.category-wrapper h3{
+  font-size:20px;
+  letter-spacing:4px;
+  color:red;
+}
+
+.category-wrapper h4{
+  background-color:#eee;
+  padding-top:15px;
+  padding-bottom:15px;
+  margin-right:300px;
+  margin-left:300px;
+}
+
+footer img{
+  width:124px;
+  font-size:12px;
+  padding-top:30px;
+  height:65px;
+}
+
+footer p{
+  font-size:12px;
+  color:#b3aeb5;
+}
+
+footer{
+  border-top:1px solid #eee;
+  height:50px;
+  width:100%;
+  width:1400px;
+
+  }
