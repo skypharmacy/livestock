@@ -63,6 +63,10 @@ header{
   text-align:center;
   }
 
+.category-wrapper img{
+  width:300px;
+}
+
 .category-wrapper h3{
   font-size:23px;
   letter-spacing:4px;
